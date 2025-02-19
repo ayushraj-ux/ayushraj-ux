@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushraj-ux
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning AI abd ML
+- 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on AI creation 
 - 📫 How to reach me "mail me on my email address (ayushraj11693@gmail.com)"
 - 😄 Pronouns: he/him
